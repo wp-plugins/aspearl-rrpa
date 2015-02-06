@@ -17,7 +17,7 @@ You can cofigure design according to your theme it is being placed in plugin-dir
 
 == Screenshots ==
 
-screen.png
+screenshot-1.png
 
 ==  Features ==
  
